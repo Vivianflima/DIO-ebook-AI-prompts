@@ -31,16 +31,18 @@ Microsoft Designer：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A path that leads to transformation.|
 
+Google AI Studio：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | Crie o sumário do e-book anexo com o seguinte formato: Nome do capítulo/subcapítulo......número da página em que ele se inicia.|
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Microsoft Designer
 - Diagramação via PowerPoint
 - Sumário criado com Google AI Studio
-
-## 📚 Materiais
-
-- Ebook gerado em `output`
 
 ## 🛠️ Instruções de execução
 
